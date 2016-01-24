@@ -1,0 +1,9 @@
+C:\Users\PG26829B\Documents\Visual Studio 2010\Projects\BAIGIAMASIS\Baigiamasis\bin\Debug\Baigiamasis.exe
+C:\Users\PG26829B\Documents\Visual Studio 2010\Projects\BAIGIAMASIS\Baigiamasis\bin\Debug\Baigiamasis.pdb
+C:\Users\PG26829B\Documents\Visual Studio 2010\Projects\BAIGIAMASIS\Baigiamasis\obj\x86\Debug\Baigiamasis.csprojResolveAssemblyReference.cache
+C:\Users\PG26829B\Documents\Visual Studio 2010\Projects\BAIGIAMASIS\Baigiamasis\obj\x86\Debug\Baigiamasis.Apskaiciavimoforma.resources
+C:\Users\PG26829B\Documents\Visual Studio 2010\Projects\BAIGIAMASIS\Baigiamasis\obj\x86\Debug\Baigiamasis.Duomenuivedimoforma.resources
+C:\Users\PG26829B\Documents\Visual Studio 2010\Projects\BAIGIAMASIS\Baigiamasis\obj\x86\Debug\Baigiamasis.Properties.Resources.resources
+C:\Users\PG26829B\Documents\Visual Studio 2010\Projects\BAIGIAMASIS\Baigiamasis\obj\x86\Debug\Baigiamasis.csproj.GenerateResource.Cache
+C:\Users\PG26829B\Documents\Visual Studio 2010\Projects\BAIGIAMASIS\Baigiamasis\obj\x86\Debug\Baigiamasis.exe
+C:\Users\PG26829B\Documents\Visual Studio 2010\Projects\BAIGIAMASIS\Baigiamasis\obj\x86\Debug\Baigiamasis.pdb

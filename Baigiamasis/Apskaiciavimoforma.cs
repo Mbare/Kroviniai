@@ -9,16 +9,11 @@ using System.Windows.Forms;
 
 namespace Baigiamasis
 {
-    public partial class Form1 : Form
+    public partial class Apskaiciavimoforma : Form
     {
-        public Form1()
+        public Apskaiciavimoforma()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
